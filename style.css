@@ -40,10 +40,29 @@ a {
 .title {
     font-size: 48px;
     font-weight: bolder;
+    color: #F9FAF8;
 }
 
 .sub-text {
     font-size: 18px;
     color: #E5E7EB;
+}
+
+.signup-one {
+    border-radius: 7px;
+    border: none;
+
+    padding: 14px;
+    
+    height: 30px;
+    width: 120px;
+    
+    background-color: #3882f6;
+    color: #F9FAF8;
+    
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
