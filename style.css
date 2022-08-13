@@ -125,3 +125,49 @@ a {
     justify-content: flex-end;
     padding-right: 40px;
 }
+
+.call-box {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    background-color: #3882f6;
+    
+    border-radius: 10px;
+    margin: 120px 70px;
+    padding: 70px 100px;
+}
+
+.call-box-text :first-child {
+    display: flex;
+    flex-direction: column;
+
+
+    font-weight: bold;
+    font-size: 20px;
+    color: #F9FAF8;
+}
+
+.call-box-text {
+    color: #F9FAF8;
+}
+
+.call-box-button {
+    border-radius: 7px;
+    border: none;
+
+    padding: 10px 25px;
+    
+    height: 30px;
+    width: 120px;
+    border: 2px solid #F9FAF8;
+    
+    background-color: #3882f6;
+    color: #F9FAF8;
+    
+    font-weight: bold;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
