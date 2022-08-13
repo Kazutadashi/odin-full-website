@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
 
 body {
     font-family: 'Roboto';
@@ -104,4 +105,23 @@ a {
     width: 100px;
     height: 100px;
     text-align: center;
+}
+
+.testimonial {
+    background-color: #e5e7eb;
+    color: #1f2937;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 300;
+}
+
+.signature {
+    font-weight: bold;
+    font-size: 25px;
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 40px;
 }
