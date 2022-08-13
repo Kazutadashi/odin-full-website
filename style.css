@@ -98,3 +98,10 @@ a {
     width: 100px;
     height: 100px;
 }
+
+.info-text {
+    padding-left: 3px;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
