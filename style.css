@@ -21,6 +21,12 @@ a {
     font-size: 14px;
 }
 
+img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
 .header {
     display: flex;
     justify-content: space-between;
@@ -38,11 +44,14 @@ a {
     display: flex;
     background-color: #1F2937;
     padding: 50px;
+    height: 200px;
+    width: 1200px;
 }
 
 .sub-header-main {
     display: flex;
     flex-direction: column;
+    padding-right: 100px;
 }
 
 .title {
