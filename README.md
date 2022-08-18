@@ -7,4 +7,8 @@ I also recorded the entire process and uploaded it to YouTube if you would like 
 and my strategies for styling different aspects of the page. You can find that video here:\
 https://www.youtube.com/watch?v=evGLUijXROQ
 
+# Preview
+
 ![finishedtop](https://user-images.githubusercontent.com/40162378/185500105-6f85e966-af24-4d81-89cf-cdde0b12c75a.png)
+
+
